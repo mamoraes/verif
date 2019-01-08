@@ -1,10 +1,11 @@
 # -- coding: utf-8 --'
+# python3
 from  openpyxl import *
 import sqlite3
 from unidecode import unidecode
 
 
-pasta='d:\\rif\\'
+pasta='../rif/'
 
 def abrirtabela( xcursor, nometabela, campos=[]):
     try:
