@@ -1,2 +1,2 @@
 # verif
-Vínculos em relatório
+Vínculos em relatório.
